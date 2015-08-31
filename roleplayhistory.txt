@@ -1,0 +1,5 @@
+hi
+yo
+time.struct_time(tm_year=2015, tm_mon=8, tm_mday=30, tm_hour=22, tm_min=41, tm_sec=41, tm_wday=6, tm_yday=242, tm_isdst=1)as
+time.struct_time(tm_year=2015, tm_mon=8, tm_mday=30, tm_hour=22, tm_min=42, tm_sec=37, tm_wday=6, tm_yday=242, tm_isdst=1)
+yosad
